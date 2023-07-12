@@ -1,0 +1,27 @@
+<!-- -Menu used in Mobikul-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.HomeActivity">
+
+<!--    <item-->
+<!--        android:id="@+id/menu_item_edit"-->
+<!--        android:icon="@drawable/icon_edit"-->
+<!--        android:title=""-->
+<!--        android:visible="true"-->
+<!--        app:showAsAction="ifRoom" />-->
+    <item
+        android:id="@+id/menu_item_update"
+        android:icon="@drawable/icon_submit_fill"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+<!--    <item-->
+<!--        android:id="@+id/menu_item_delete"-->
+<!--        android:icon="@drawable/icon_delete"-->
+<!--        android:title=""-->
+<!--        android:visible="true"-->
+<!--        app:showAsAction="ifRoom" />-->
+
+
+</menu>

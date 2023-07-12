@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_topping"
+            android:icon="@drawable/takeaway_hot_drink_512px"
+            android:title="Zutatenauswahl 1" />
+
+    </group>
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_add_sub_order"
+                android:icon="@drawable/estimate_480px"
+                android:title="Nächster Gang" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_edit_count"
+            android:icon="@drawable/img_edit_count"
+            android:title="Edit Count" />
+    </group>
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_delele"
+                android:icon="@drawable/delete_document_480px"
+                android:title="Stonor" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trash"
+            android:icon="@drawable/trasha"
+            android:title="Trash" />
+    </group>
+</menu>

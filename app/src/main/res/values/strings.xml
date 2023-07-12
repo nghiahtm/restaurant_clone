@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Restaurantmanager</string>
+    <!-- Admin Activity related strings -->
+    <string name="btm_nav_item_title_home">Home</string>
+    <string name="btm_nav_item_title_orders">Orders</string>
+    <string name="btm_nav_item_title_table">Tables</string>
+    <string name="btm_nav_item_title_more">More</string>
+    <string name="input_search">Search</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!--    more menu-->
+    <string name="categories">Categores</string>
+    <string name="foods">Foods</string>
+    <string name="toppings">Toppings</string>
+    <string name="orders">Orders</string>
+    <string name="reports">Reports</string>
+    <string name="more_fragment_title">More</string>
+    <string name="category_title">Categories</string>
+
+    <!-- category-->
+    <string name="category_information">Category Information</string>
+    <string name="category_name">Category Name</string>
+    <string name="enable_category">Enable Category</string>
+    <string name="subcategory_list">SubCategories</string>
+
+
+    /////////////////////////////////////////////////
+    <string name="app_description">Lock App for Glasses</string>
+    <string name="not_device_admin">Not Device Admin</string>
+    <string name="not_device_owner">Not Device Owner</string>
+    /////////////////////////////////////////////
+
+
+</resources>

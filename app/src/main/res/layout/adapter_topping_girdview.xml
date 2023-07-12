@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.BaselineLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+   <TextView
+       android:id="@+id/tv_topping_name"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:text="ok"
+       android:gravity="center"
+       android:background="@drawable/border_button"
+       android:textAlignment="center"
+       android:textSize="18sp"
+       android:textStyle="bold"
+       android:textColor="@color/black"
+       />
+</com.google.android.material.internal.BaselineLayout>
